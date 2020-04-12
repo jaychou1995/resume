@@ -52,9 +52,9 @@ $(function(){
 	let c = new Coder('work')
 	c.load('<p>&nbsp;</p>')
 	c.load('<p class="writecode work">你好</p>')
-	c.load('<p  class="writecode  work">我叫周善斌,是大连民族大学计算机科学与工程学院应届毕业生</p>')
+	c.load('<p  class="writecode  work">我叫周善斌,毕业于大连民族大学计算机科学与工程学院</p>')
+	c.load('<p  class="writecode  work">专业是计算机科学与技术</p>')
 	c.load('<p  class="writecode work">目前求职意向为前端工程师</p>')
-	c.load('<p  class="writecode work">期望城市:南京,广州,杭州</p>')
 	c.load('<p  class="writecode work">现在我将用完成我的简历</p>')
 	c.load('<p  class="writecode work">请您过目</p>')
 	
